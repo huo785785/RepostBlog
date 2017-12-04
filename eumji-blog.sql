@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.18, for Linux (x86_64)
 --
--- Host: localhost    Database: zblog
+-- Host: localhost    Database: newBlog
 -- ------------------------------------------------------
 -- Server version	5.7.18-0ubuntu0.17.04.1
 
